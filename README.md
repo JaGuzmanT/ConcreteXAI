@@ -27,6 +27,12 @@ Electrical resistivity (kΩ·cm) <br />
 Ultrasonic pulse velocity (km/s) <br />
 Each row represents a single sample, with the strengths and resistivity measurements taken at 28 days after casting. 
 
+# This dataset can aid the machine learning field in several ways:
+
+-Benchmarking: This dataset can be used as a benchmark for evaluating the performance of different machine learning models for concrete strength prediction. Researchers can use the dataset to train and test their models and compare their results with other models.
+
+-Model development: The dataset can be used to train and develop new machine learning models for concrete strength prediction.
+
 Please cite the following paper if you use this dataset in your research:
 
 @article{doi:10.1061/(ASCE)CO.1943-7862.0001652,
@@ -42,11 +48,7 @@ URL = {},
 eprint = {},
 }
 
-% This dataset can aid the machine learning field in several ways:
 
--Benchmarking: This dataset can be used as a benchmark for evaluating the performance of different machine learning models for concrete strength prediction. Researchers can use the dataset to train and test their models and compare their results with other models.
-
--Model development: The dataset can be used to train and develop new machine learning models for concrete strength prediction.
 
 This dataset can improve concrete material analysis in several ways:
 
