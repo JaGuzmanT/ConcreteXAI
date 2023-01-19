@@ -38,7 +38,7 @@ The repository contains a directory named Images, which contains the corrosion i
 
 Please cite the following paper if you use this dataset in your research:
 
-@article{doi:10.1061/(ASCE)CO.1943-7862.0001652, <br />
+@article{doi: working..., <br />
 author = {}, <br />
 title = {}, <br />
 journal = {}, <br />
