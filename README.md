@@ -13,3 +13,20 @@ Flexural strength (MPa)
 Electrical resistivity (kΩ·cm)
 Ultrasonic pulse velocity (km/s)
 Each row represents a single sample, with the strengths and resistivity measurements taken at 28 days after casting.
+
+Please cite the following paper if you use this dataset in your research:
+
+@article{doi:10.1061/(ASCE)CO.1943-7862.0001652,
+author = {},
+title = {},
+journal = {},
+volume = {},
+number = {},
+pages = {},
+year = {},
+doi = {},
+URL = {},
+eprint = {},
+}
+
+Enjoy and happy experimenting!
