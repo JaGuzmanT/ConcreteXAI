@@ -26,7 +26,7 @@ The primary purpose of this dataset is to provide a benchmark for machine learni
 
 Compressive strength (MPa)
 
-Tensile strength (MPa)
+Tensile strength (MPa) <br />
 Flexural strength (MPa)
 Electrical resistivity (kΩ·cm)
 Ultrasonic pulse velocity (km/s)
