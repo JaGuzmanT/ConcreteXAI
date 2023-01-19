@@ -35,17 +35,17 @@ Each row represents a single sample, with the strengths and resistivity measurem
 
 Please cite the following paper if you use this dataset in your research:
 
-@article{doi:10.1061/(ASCE)CO.1943-7862.0001652,
-author = {},
-title = {},
-journal = {},
-volume = {},
-number = {},
-pages = {},
-year = {},
-doi = {},
-URL = {},
-eprint = {},
+@article{doi:10.1061/(ASCE)CO.1943-7862.0001652, <br />
+author = {}, <br />
+title = {}, <br />
+journal = {}, <br />
+volume = {}, <br />
+number = {}, <br />
+pages = {}, <br />
+year = {}, <br />
+doi = {}, <br />
+URL = {}, <br />
+eprint = {}, <br />
 }
 
 Enjoy and happy experimenting!
