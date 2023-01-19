@@ -20,11 +20,12 @@ This dataset contains 4440 measurements of compressive strength, tensile strengt
 
 ## Project summary, description or abstract: 📚
 
-# The primary purpose of this dataset is to provide a benchmark for machine learning models and to facilitate research in the field of concrete strength prediction. The data can be used to train and evaluate models, as well as for comparison with other datasets.
+The primary purpose of this dataset is to provide a benchmark for machine learning models and to facilitate research in the field of concrete strength prediction. The data can be used to train and evaluate models, as well as for comparison with other datasets.
 
 # The dataset includes the following columns:
 
-Compressive strength (MPa)\\
+Compressive strength (MPa)
+
 Tensile strength (MPa)
 Flexural strength (MPa)
 Electrical resistivity (kΩ·cm)
