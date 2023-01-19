@@ -7,7 +7,7 @@ ConcreteProperties: A Multivariate Dataset for Concrete Strength Prediction
 
 # The dataset includes the following columns:
 
-Compressive strength (MPa)
+Compressive strength (MPa)\\
 Tensile strength (MPa)
 Flexural strength (MPa)
 Electrical resistivity (kΩ·cm)
