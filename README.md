@@ -1,5 +1,4 @@
-# ConcreteX ConcreteProperties: A Multivariate Dataset for Concrete Strength Prediction 🏫
-ConcreteProperties: A Multivariate Dataset for Concrete Strength Prediction 
+# ConcreteX (ConcreteProperties: A Multivariate Dataset for Concrete Strength Prediction) 🏫
 
 ## Description: 📝
 This dataset contains 4440 measurements of compressive strength, tensile strength, flexural strength, electrical resistivity, and ultrasonic pulse velocity on concrete samples. The data corresponds to 12 different concrete mixtures, each containing a variety of resistance, aggregates, and additives.
