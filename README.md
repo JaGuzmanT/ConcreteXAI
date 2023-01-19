@@ -1,14 +1,10 @@
 # ConcreteX (ConcreteProperties: A Multivariate Dataset for Concrete Strength Prediction) 🏫
 
 ## Researchers 🧑‍🔬
-José A. Guzmán-Torres
-
-Francisco J. Domínguez-Mota
-
-Gerardo Tinoco-Guerrero
-
-Universidad Michoacana de San Nicolás de Hidalgo, Faculty of Civil Engineering
-
+José A. Guzmán-Torres <br />
+Francisco J. Domínguez-Mota <br />
+Gerardo Tinoco-Guerrero <br />
+Universidad Michoacana de San Nicolás de Hidalgo, Faculty of Civil Engineering <br />
 AULA-CIMNE, Morelia
 
 jose.alberto.guzman@umich.mx
@@ -24,13 +20,12 @@ The primary purpose of this dataset is to provide a benchmark for machine learni
 
 # The dataset includes the following columns:
 
-Compressive strength (MPa)
-
+Compressive strength (MPa) <br />
 Tensile strength (MPa) <br />
-Flexural strength (MPa)
-Electrical resistivity (kΩ·cm)
-Ultrasonic pulse velocity (km/s)
-Each row represents a single sample, with the strengths and resistivity measurements taken at 28 days after casting.
+Flexural strength (MPa) <br />
+Electrical resistivity (kΩ·cm) <br />
+Ultrasonic pulse velocity (km/s) <br />
+Each row represents a single sample, with the strengths and resistivity measurements taken at 28 days after casting. 
 
 Please cite the following paper if you use this dataset in your research:
 
@@ -46,5 +41,24 @@ doi = {},
 URL = {},
 eprint = {},
 }
+
+% This dataset can aid the machine learning field in several ways:
+
+-Benchmarking: This dataset can be used as a benchmark for evaluating the performance of different machine learning models for concrete strength prediction. Researchers can use the dataset to train and test their models and compare their results with other models.
+
+-Model development: The dataset can be used to train and develop new machine learning models for concrete strength prediction.
+
+This dataset can improve concrete material analysis in several ways:
+
+Predictive modeling: The dataset can be used to train machine learning models that can predict the strength properties of concrete based on its composition, curing conditions, and other factors. This can improve the accuracy of concrete strength predictions and reduce the need for costly and time-consuming physical testing.
+
+Material optimization: The dataset can be used to analyze the relationships between different concrete properties, such as compressive strength, tensile strength, and electrical resistivity, and the different materials that make up the concrete. This can help researchers and engineers optimize the composition of concrete to achieve desired strength properties.
+
+Quality control: The dataset can be used to train machine learning models that can detect and diagnose defects in concrete structures. This can help improve the quality control of concrete production and reduce the risk of structural failure.
+
+Understanding of the material behavior: By using this dataset, researchers can learn about the behavior of the material under different conditions, this can help them to understand how the material can be improved and how to get the best results from it.
+
+Advancement in the field: The dataset can be used for further research and experimentation, and can help to advance the field of concrete material analysis and engineering.
+
 
 Enjoy and happy experimenting!
