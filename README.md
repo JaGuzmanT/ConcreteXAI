@@ -23,8 +23,8 @@ The primary purpose of this dataset is to provide a benchmark for machine learni
 Compressive strength (MPa) <br />
 Tensile strength (MPa) <br />
 Flexural strength (MPa) <br />
-Electrical resistivity (kΩ·cm) <br />
-Ultrasonic pulse velocity (km/s) <br />
+Electrical resistivity (Ω·cm) <br />
+Ultrasonic pulse velocity (m/s) <br />
 Each row represents a single sample, with the strengths and resistivity measurements taken at 28 days after casting. 
 
 # This dataset can aid the machine learning field in several ways: ✨
