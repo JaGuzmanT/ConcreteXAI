@@ -25,7 +25,7 @@ Tensile strength (MPa) <br />
 Flexural strength (MPa) <br />
 Electrical resistivity (Ω·cm) <br />
 Ultrasonic pulse velocity (m/s) <br />
-Each row represents a single sample, with the strengths and resistivity measurements taken at 3,7,14,28,40,90 and 120 days after casting. 
+Each row represents a single sample, with the strengths and resistivity measurements taken at 3, 7, 14, 28, 40, 60, 90, and 120 days after casting. 
 
 # This dataset can aid the machine learning field in several ways: ✨
 
