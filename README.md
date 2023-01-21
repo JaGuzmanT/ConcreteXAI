@@ -34,7 +34,7 @@ Each row represents a single sample, with the strengths and resistivity measurem
 -Model development: The dataset can be used to train and develop new machine learning models for concrete strength prediction.
 
 ## Description of files: ✍️
-The repository contains a directory named Images, which contains the corrosion images on concrete structures in three sub-directories, train (632), test(79), and val (79). All the images are two-dimensional color images with .jpg extension.
+The repository contains a file named Final_Artificial_Data.csv, which comprises the numerical values of the monitoring process of a different concrete samples.
 
 Please cite the following paper if you use this dataset in your research:
 
