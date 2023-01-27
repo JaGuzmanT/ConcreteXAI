@@ -1,13 +1,14 @@
 # ConcreteX (ConcreteProperties: A Multivariate Dataset for Concrete Strength Prediction) 🏫
 
 ## Researchers 🧑‍🔬
-José A. Guzmán-Torres <br />
+- *Dr. José A. Guzmán-Torres* <br />
 jose.alberto.guzman@umich.mx
 https://orcid.org/0000-0002-9309-9390
 
-Francisco J. Domínguez-Mota <br />
-Gerardo Tinoco-Guerrero <br />
-gerardo.tinoco@umich.mx
+- *Dr. Francisco J. Domínguez-Mota* <br />
+
+- *Dr. Gerardo Tinoco-Guerrero* <br />
+gerardo.tinoco@umich.mx <br />
 https://orcid.org/0000-0003-3119-770X
 
 Universidad Michoacana de San Nicolás de Hidalgo, Faculty of Civil Engineering <br />
