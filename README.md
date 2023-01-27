@@ -2,11 +2,12 @@
 
 ## Researchers 🧑‍🔬
 - *Dr. José A. Guzmán-Torres* <br />
-jose.alberto.guzman@umich.mx
+jose.alberto.guzman@umich.mx <br />
 https://orcid.org/0000-0002-9309-9390
 
 - *Dr. Francisco J. Domínguez-Mota* <br />
-
+francisco.mota@umich.mx <br />
+https://orcid.org/0000-0001-6837-172X
 - *Dr. Gerardo Tinoco-Guerrero* <br />
 gerardo.tinoco@umich.mx <br />
 https://orcid.org/0000-0003-3119-770X
