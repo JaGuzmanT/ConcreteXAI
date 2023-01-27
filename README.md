@@ -1,4 +1,5 @@
 # ConcreteX (ConcreteProperties: A Multivariate Dataset for Concrete Strength Prediction) 🏫
+![](Distribution.png)
 
 ## Researchers 🧑‍🔬
 - *Dr. José A. Guzmán-Torres* <br />
