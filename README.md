@@ -1,15 +1,23 @@
 # ConcreteX (ConcreteProperties: A Multivariate Dataset for Concrete Strength Prediction) 🏫
+![](Distribution.png)
 
 ## Researchers 🧑‍🔬
-José A. Guzmán-Torres <br />
-Francisco J. Domínguez-Mota <br />
-Gerardo Tinoco-Guerrero <br />
+- *Dr. José A. Guzmán-Torres* <br />
+jose.alberto.guzman@umich.mx <br />
+https://orcid.org/0000-0002-9309-9390
+
+- *Dr. Francisco J. Domínguez-Mota* <br />
+francisco.mota@umich.mx <br />
+https://orcid.org/0000-0001-6837-172X
+- *Dr. Gerardo Tinoco-Guerrero* <br />
+gerardo.tinoco@umich.mx <br />
+https://orcid.org/0000-0003-3119-770X
+
 Universidad Michoacana de San Nicolás de Hidalgo, Faculty of Civil Engineering <br />
 AULA-CIMNE, Morelia
 
-jose.alberto.guzman@umich.mx
 
-https://orcid.org/0000-0002-9309-9390
+
 
 ## Description: 📝
 This dataset contains 4419 measurements of compressive strength, tensile strength, flexural strength, electrical resistivity, and ultrasonic pulse velocity on concrete samples. The data corresponds to 12 different concrete mixtures, each containing a variety of resistance, aggregates, and additives.
