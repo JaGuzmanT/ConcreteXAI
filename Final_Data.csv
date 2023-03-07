@@ -1,4 +1,4 @@
-,Type_of_cement,Brand,Additions,Type_of_aggregates,Design_F'c (Mpa),Test_age_(days),Cs_(Mpa),Ts_(Mpa),Fs_(Mpa),Er_(ohm-cm),UPV_(m/s)
+,Type_of_cement,Brand,Additives,Type_of_aggregates,Design_F'c (Mpa),Curing_age_(days),Cs_(Mpa),Ts_(Mpa),Fs_(Mpa),Er_(ohm-cm),UPV_(m/s)
 0,CPO 30R RS BRA,CEMEX,Opuntia_ficus_indica,Rounded,25,3,5.2154,0.5609,,5.8654,2440.2989
 1,CPO 30R RS BRA,CEMEX,Opuntia_ficus_indica,Rounded,25,3,5.1528,0.5727,,5.9471,2417.9562
 2,CPO 30R RS BRA,CEMEX,Opuntia_ficus_indica,Rounded,25,3,5.6877,0.5826,,5.9965,2429.9277
