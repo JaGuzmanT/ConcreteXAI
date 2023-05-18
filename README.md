@@ -1,4 +1,4 @@
-# ConcreteX (ConcreteProperties: A Multivariate Dataset for Concrete Strength Prediction) 🏫
+# ConcreteXAI (ConcreteProperties: A Multivariate Dataset for Concrete Strength Prediction) 🏫
 ![](Distribution.png)
 
 ## Researchers 🧑‍🔬
