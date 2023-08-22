@@ -22,7 +22,7 @@ AULA-CIMNE, Morelia
 ## Description: 📝
 This dataset contains 4419 measurements of compressive strength, tensile strength, flexural strength, electrical resistivity, and ultrasonic pulse velocity on concrete samples. The data corresponds to 12 different concrete mixtures, each containing a variety of resistance, aggregates, and additives.
 
-## Project summary, description or abstract: 📚
+## Project summary, description, or abstract: 📚
 
 The primary purpose of this dataset is to provide a benchmark for machine learning models and to facilitate research in the field of concrete strength prediction. The data can be used to train and evaluate models, as well as for comparison with other datasets.
 
@@ -42,7 +42,7 @@ Each row represents a single sample, with the strengths and resistivity measurem
 -Model development: The dataset can be used to train and develop new machine learning models for concrete strength prediction.
 
 ## Description of files: ✍️
-The repository contains a file named Final_Artificial_Data.csv, which comprises the numerical values of the monitoring process of a different concrete samples.
+The repository contains a file named Final_Artificial_Data.csv, which comprises the numerical values of the monitoring process of different concrete samples.
 
 Please cite the following paper if you use this dataset in your research:
 
