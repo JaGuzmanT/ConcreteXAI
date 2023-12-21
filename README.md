@@ -20,7 +20,7 @@ AULA-CIMNE, Morelia
 
 
 ## Description: 📝
-This dataset contains 4419 measurements of compressive strength, tensile strength, flexural strength, electrical resistivity, and ultrasonic pulse velocity on concrete samples. The data corresponds to 12 different concrete mixtures, each containing a variety of resistance, aggregates, and additives.
+This dataset contains 4,420 measurements of compressive strength, electrical resistivity, and ultrasonic pulse velocity on concrete samples. For the tensile strength contains 3,460 data points and for the flexural strength it contains 1,760. The data corresponds to 12 different concrete mixtures, each containing a variety of resistance, aggregates, and additives.
 
 ## Project summary, description, or abstract: 📚
 
