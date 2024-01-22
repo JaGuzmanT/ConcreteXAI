@@ -37,16 +37,16 @@ Each row represents a single sample, with the strengths and resistivity measurem
 
 # This dataset can aid the machine learning field in several ways: ✨
 
--Benchmarking: This dataset can be used as a benchmark for evaluating the performance of different machine learning models for concrete strength prediction. Researchers can use the dataset to train and test their models and compare their results with other models.
+- Benchmarking: This dataset can be used as a benchmark for evaluating the performance of different machine learning models for concrete strength prediction. Researchers can use the dataset to train and test their models and compare their results with other models.
 
--Model development: The dataset can be used to train and develop new machine learning models for concrete strength prediction.
+- Model development: The dataset can be used to train and develop new machine learning models for concrete strength prediction.
 
 ## Description of files: ✍️
 The repository contains a file named Final_Artificial_Data.csv, which comprises the numerical values of the monitoring process of different concrete samples.
 
 Please cite the following paper if you use this dataset in your research:
 
-@article{doi: working..., <br />
+@article{DOI: 10.5281/zenodo.10553470, <br />
 author = {}, <br />
 title = {}, <br />
 journal = {}, <br />
