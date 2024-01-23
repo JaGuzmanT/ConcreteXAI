@@ -20,8 +20,8 @@ wilfrido.martinez@umich.mx <br />
 https://orcid.org/0000-0002-3301-4949
 
 *Universidad Michoacana de San Nicolás de Hidalgo, Faculty of Civil Engineering* <br />
-*AULA-CIMNE, Morelia* <br />
-*Researchers National System*
+*AULA-CIMNE, Morelia, Michoacán, México* <br />
+*Researchers National System México*
 
 
 
