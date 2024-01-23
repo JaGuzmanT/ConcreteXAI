@@ -12,6 +12,12 @@ https://orcid.org/0000-0001-6837-172X
 - *Dr. Gerardo Tinoco-Guerrero* <br />
 gerardo.tinoco@umich.mx <br />
 https://orcid.org/0000-0003-3119-770X
+- Dra. Elia Mercedes Alonso Guzmán <br />
+elia.alonso@umich.mx <br />
+https://orcid.org/0000-0002-8502-4313
+- Dr. Wilfrido Martínez Molina <br />
+wilfrido.martinez@umich.mx <br />
+https://orcid.org/0000-0002-3301-4949
 
 Universidad Michoacana de San Nicolás de Hidalgo, Faculty of Civil Engineering <br />
 AULA-CIMNE, Morelia
