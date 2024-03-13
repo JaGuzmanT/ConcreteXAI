@@ -55,12 +55,12 @@ Please cite the following paper if you use this dataset in your research:
 
 @article{guzman2024concretexai, <br />
   title = {ConcreteXAI: A multivariate dataset for concrete strength prediction via deep-learning-based methods}, <br />
-  author={Guzm{\'a}n-Torres, Jos{\'e} A and Dom{\'\i}nguez-Mota, Francisco J and Alonso-Guzm{\'a}n, Elia M and Tinoco-Guerrero, Gerardo and Mart{\'\i}nez-Molina, Wilfrido}, <br />
+  author={Guzmán-Torres, José A and Domínguez-Mota, Francisco J and Alonso-Guzmán, Elia M and Tinoco-Guerrero, Gerardo and Martínez-Molina, Wilfrido}, <br />
   journal = {Data in Brief}, <br />
   volume = {53}, <br />
   pages = {110218}, <br />
   year = {2024}, <br />
-  publisher={Elsevier}
+  publisher={Elsevier}, <be />
   doi = {https://doi.org/10.1016/j.dib.2024.110218}, <br />
   URL = {https://github.com/JaGuzmanT/ConcreteXAI}, <br />
 }
