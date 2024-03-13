@@ -53,17 +53,16 @@ The repository contains a file named Final_Artificial_Data.csv, which comprises 
 
 Please cite the following paper if you use this dataset in your research:
 
-@article{DOI: 10.5281/zenodo.10553470, <br />
-author = {}, <br />
-title = {}, <br />
-journal = {}, <br />
-volume = {}, <br />
-number = {}, <br />
-pages = {}, <br />
-year = {}, <br />
-doi = {}, <br />
-URL = {}, <br />
-eprint = {}, <br />
+@article{guzman2024concretexai, <br />
+  title = {ConcreteXAI: A multivariate dataset for concrete strength prediction via deep-learning-based methods}, <br />
+  author={Guzm{\'a}n-Torres, Jos{\'e} A and Dom{\'\i}nguez-Mota, Francisco J and Alonso-Guzm{\'a}n, Elia M and Tinoco-Guerrero, Gerardo and Mart{\'\i}nez-Molina, Wilfrido}, <br />
+  journal = {Data in Brief}, <br />
+  volume = {53}, <br />
+  pages = {110218}, <br />
+  year = {2024}, <br />
+  publisher={Elsevier}
+  doi = {https://doi.org/10.1016/j.dib.2024.110218}, <br />
+  URL = {https://github.com/JaGuzmanT/ConcreteXAI}, <br />
 }
-
+Git-Hub DOI: DOI: 10.5281/zenodo.10553470
 Enjoy and happy experimenting!
