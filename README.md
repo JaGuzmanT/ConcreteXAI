@@ -62,7 +62,7 @@ Please cite the following paper if you use this dataset in your research:
   year = {2024}, <br />
   publisher={Elsevier}, <be />
   doi = {https://doi.org/10.1016/j.dib.2024.110218}, <br />
-    URL = {https://github.com/JaGuzmanT/ConcreteXAI}, <br />
+    URL = {https://github.com/JaGuzmanT/ConcreteXAI }, <br />
 } <br />
 Git-Hub DOI: 10.5281/zenodo.10553470 <br />
 Enjoy and happy experimenting!
