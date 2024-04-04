@@ -60,7 +60,7 @@ Please cite the following paper if you use this dataset in your research:
   volume = {53}, <br />
   pages = {110218}, <br />
   year = {2024}, <br />
-  publisher={Elsevier}, <be />
+  publisher={Elsevier}, <br />
   doi = {https://doi.org/10.1016/j.dib.2024.110218}, <br />
     URL = {https://github.com/JaGuzmanT/ConcreteXAI }, <br />
 } <br />
